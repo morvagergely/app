@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: dictionary_api
+dependency_overrides:
+  dictionary_api:
+    path: ../dictionary_api

@@ -1,0 +1,9 @@
+name: app
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
+
+packages:
+  - .
+  - packages/**

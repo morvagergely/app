@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: dictionary_api,dictionary_repository,local_dictionary_api
+dependency_overrides:
+  dictionary_api:
+    path: packages/dictionary_api
+  dictionary_repository:
+    path: packages/dictionary_repository
+  local_dictionary_api:
+    path: packages/local_dictionary_api
